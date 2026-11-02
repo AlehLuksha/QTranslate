@@ -1,0 +1,140 @@
+﻿{
+   "Application": {
+      "SaveHistoryPath": "",
+      "HistoryFilterFavorites": false,
+      "OptionsPageIndex": 7,
+      "HistoryFilter": ""
+   },
+   "Exceptions": {
+      "Disabled": [["", "SysListView32"], ["", "SysTreeView32"], ["", "ListBox"], ["", "ScrollBar"], ["", "ComboBox"], ["", "msctls_hotkey32"], ["", "ConsoleWindowClass"], ["mstsc.exe", ""]],
+      "Enabled": [],
+      "DisabledMode": true
+   },
+   "Contents": {
+      "EditBackTranslation": "",
+      "SaveOnExit": true,
+      "EditTranslation": "No data returned (timeout while sending data).",
+      "EditSource": "After making the proposed change from #22, the lib works again, however every translation I attempt returns a 429 too many requests, with a message saying PyDeepLX Error: Too many requests, your IP has been blocked by DeepL temporarily, please don't request it frequently in a short time. However this does not appear to be temporary, I have tried it with a vpn, without a vpn, and at all hours of the day, even with days in between. I have no idea if they just started denying the IOS headers OwO-Network was using, but I went ahead and made the following changes to mimic the browser calls. In the PyDeepLX.py file you want to make the following changes..."
+   },
+   "Advanced": {
+      "EnableSlowerListening": true,
+      "OcrApiKey": "",
+      "LayoutIndicator": 0,
+      "EnableGuiTranslation": false,
+      "CopyAction": 0,
+      "SwitchMouseModeOnTrayClick": true,
+      "DefaultBrowserId": "Microsoft Edge",
+      "EnableMouseModeOnCtrl": false,
+      "RemoveLineBreaks": false,
+      "PreferredDomain": "com"
+   },
+   "Appearance": {
+      "EnableWindowStyle": false,
+      "PopupAutoSize": true,
+      "ColorFrame": 8023133,
+      "PopupPinWhenDragging": true,
+      "PopupWindowFrameThickness": 2,
+      "Transparency": 217,
+      "PopupIcons": 30,
+      "ColorText": 0,
+      "PopupAutoFocus": false,
+      "ThemeName": "",
+      "PopupAutoPos": true,
+      "PopupTimeout": 5,
+      "ColorBack": 15790320
+   },
+   "Internet": {
+      "Timeout": 10000
+   },
+   "HotKeys": {
+      "EnableHotKeys": true,
+      "HotKeyListenText": 581,
+      "HotKeyTranslateClipboardInMainWindow": 0,
+      "HotKeyReplaceSelection": 0,
+      "HotKeyHistory": 0,
+      "HotKeySwitchMouseMode": 0,
+      "HotKeyTextRecognition": 0,
+      "HotKeyDictionaryClipboard": 0,
+      "HotKeySpeechInput": 0,
+      "HotKeyConvertTextLayout": 0,
+      "HotKeyCopyTranslation": 0,
+      "HotKeyTranslateClipboardInPopupWindow": 0,
+      "HotKeyDictionary": 1617,
+      "HotKeyListenTranslation": 0,
+      "HotKeyTranslateClipboard": 0,
+      "HotKeyKeyboard": 0,
+      "HotKeyPopupWindow": 593,
+      "HotKeyMainWindow": 33280
+   },
+   "OfflineDictionaries": [],
+   "Ocr": {
+      "OcrLanguage": 17,
+      "SaveImagePath": ""
+   },
+   "Update": {
+      "CheckForUpdates": false
+   },
+   "DisabledServices": [12, 13, 11, 26, 28, 30, 31, 1, 5],
+   "Proxy": {
+      "Password": "",
+      "Scheme": 0,
+      "Host": "",
+      "ProxyType": 0,
+      "Username": "",
+      "Port": 0
+   },
+   "DictionariesOrder": [10, 19, 20, 14, 17, 18, 22, 24, 25, 26, 29],
+   "DisabledLanguages": [],
+   "DisabledDictionaries": [],
+   "Dictionary": {
+      "ShowServicesPane": true,
+      "DictionaryZoom": -1,
+      "DictionaryExactSearch": true
+   },
+   "LanguagePairs": [[46, 17], [17, 46]],
+   "General": {
+      "InstantTranslation": false,
+      "LanguageDictionary": 17,
+      "LanguageKeyboard": 17,
+      "AutoCleanupOfTranslation": false,
+      "MouseMode": 0,
+      "WindowPopupPlacement": "2C0000001000000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF820B00006F020000DA0D000035030000",
+      "ClearHistoryOnExit": false,
+      "EnableHistory": true,
+      "WindowKeyboardPlacement": "",
+      "ShowServicesPane": true,
+      "MinimizeToTrayOnMinimize": false,
+      "WindowMainPlacement": "2C0000000000000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD40800003B010000E20A0000A9020000",
+      "BackTranslation": false,
+      "WindowHistoryPlacement": "",
+      "WindowOptionsPlacement": "2C0000000000000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0900007D010000850C000004030000",
+      "ActiveServices": [131],
+      "UseSmartDetection": true,
+      "ShowMiddlePane": true,
+      "LanguageTo": 46,
+      "WindowDictionaryPlacement": "",
+      "ShowTopPane": true,
+      "MidSplitterPos": 122,
+      "LanguageFrom": 1,
+      "LocaleFoderName": "English",
+      "ReadPhonetically": false,
+      "FontName": "",
+      "MainWindowStartupAction": 0,
+      "ActiveDictionaryServices": [10],
+      "AlwaysDetectLanguage": false,
+      "MainWindowShowOnLoad": false,
+      "MinimizeToTrayOnClose": true,
+      "ExpandHistoryItems": false,
+      "BackTranslationSplitterPos": -1,
+      "MouseModeOn": false,
+      "SpellChecking": true,
+      "ClearOnDragDrop": true,
+      "TextSize": 10
+   },
+   "ServicesOrder": [1, 5, 12, 13, 11, 26, 28, 30, 31, 131, 101],
+   "AutoDetection": {
+      "LanguageFirst": 46,
+      "LanguageSecond": 17,
+      "LanguageSpeechRecognition": 46
+   }
+}

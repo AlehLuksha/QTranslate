@@ -1,0 +1,36 @@
+﻿Systemweite Tastenkombinationen (Standardwerte) - wenn diese aktiviert sind:
+ Doppelklick STRG => zeigt das Programmfenster (mit der Übersetzung des markierten Textes, falls vorhanden)
+ STRG+Q => Übersetzen des markierten Textes und Anzeigen in einem Popupfenster
+ STRG+SHIFT+Q => Wörterbuch anzeigen
+ STRG+E => Audiowiedergabe des markierten Textes
+
+Tastenkombinationen im Programmfenster:
+ STRG+EINGABETASTE => Übersetzen des Textes im Programmfenster
+ STRG+N => Löschen der aktuelle Übersetzung
+ STRG+H => Anzeigen des Übersetzungsverlaufs
+ STRG+K => Anzeige der virtuellen Tastatur
+ STRG+TAB/STRG+SHIFT+TAB/STRG+1..9 => Umschalten zum nächsten/zurück/1..9er Übersetzungsservice
+ SHIFT+ESC => Zurücksetzen des Sprachpaares auf Autodetect
+ STRG+I => Wechsel der Übersetzungsrichtung
+ STRG+LEERTASTE => Vorschlagen von Wortalternativen / Dropdown-Menü Autovervollständigung
+ F1 => Hilfe anzeigen
+
+Das Programm hat zwei Übersetzungs-Modi bei Auswahl eines Textes mit der Maus - siehe "Maus-Modus"
+(wie man den Modus aktiviert, siehe unten):
+ 1) Anzeige des Icons (Markieren Sie den Text in einem beliebigen Programm, das Programmsymbol
+    erscheint neben dem Kursor. Klicken Sie auf das Symbol, das Popupfenster mit der Übersetzung
+    des markierten Textes erscheint).
+ 2) Anzeigen der Übersetzung (Markieren Sie den Text in einem beliebigen Programm und das
+    Popup-Fenster mit der Übersetzung des markierten Textes erscheint sofort). 
+
+Aktionen:
+ - Ein Klick mit der rechten Maustaste auf das Programmsymbol (Q) in der Taskleiste aktiviert das Kontextmenü.
+   Damit können die Einstellungen aufgerufen und der "Maus-Modus" ausgewählt werden.
+ - Ein Klick mit der linken Maustaste auf das Programmsymbol (Q) in der Taskleiste aktiviert / deaktiviert
+   den Maus-Auswahl-Modus (Lesen Sie bitte weiter oben).
+ - Ein Doppelklick mit der linken Maustaste auf das Programmsymbol (Q) in der Taskleiste zeigt
+   das Programmfenster.
+ - Ein Doppelklick mit der linken Maustaste auf die Kopfzeile des Popupfensters öffnet das Programmfenster
+   mit der aktuellen Übersetzung.
+ - Ein Klick mit der linken Maustaste auf den Namen des Übersetzungsdienstes im Popupfenster ändert
+   den aktuellen Übersetzungsdienst und führt die Übersetzung erneut aus.

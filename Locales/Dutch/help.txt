@@ -1,0 +1,22 @@
+﻿Sneltoetsen in het hele systeem (standaardwaarden):
+Dubbel CTRL => Het hoofd venster weergeven(met de vertaling van de geselecteerde tekst, indien van toepassing)
+Ctrl+Q => Vertaal de geselecteerde tekst en toon het in het popup venster
+Ctrl+Shift+Q => Zoeken op het web naar geselecteerde tekst
+Ctrl+E => Luister naar geselecteerde tekst
+
+Sneltoetsen:
+Ctrl+Enter => Vertaal tekst in het hoofd venster
+Ctrl+N => Wis de huidige vertaling
+Ctrl+H => De geschiedenis dialoog weergeven
+Ctrl+Space => Suggestie / autoaanvul menu weergeven
+F1 => Help weergeven
+
+Het programma heeft twee manieren van vertalen door muisselectie (hoe in te schakelen, zie hieronder):
+  1) Pictogram weergeven(Selecteer tekst in een willekeurig programma, het programmapictogram  zal in de buurt van de cursor verschijnen. Klik op het pictogram, het popup venster met de vertaling van de geselecteerde tekst verschijnt);
+  2) Vertaling weergeven(Selecteer tekst in een willekeurig programma en het popup venster met de vertaling van de geselecteerde tekst zullen onmiddellijk verschijnen).
+    
+Acties:
+  - Links klikken op het pictogram in het systeemvak schakelt de muis selectiemodus in of uit (zie hierboven);
+  - Links dubbel klikken op het pictogram in het systeemvak toont het hoofd venster;
+  - Links dubbel klikken op de koptekst van het popup venster opent het hoofdvenster met de huidige vertaling;
+  - Links klikken op de naam van de vertaaldienst in het popup venster veranderingd de huidige vertaaldienst en vertaalt een tekst opnieuw.

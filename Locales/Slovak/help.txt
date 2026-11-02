@@ -1,0 +1,26 @@
+Systémové klávesové skratky (východzie hodnoty):
+2x Ctrl => Zobraziť hlavné okno (s prekladom textu, ak bol vybraný)
+Ctrl+Q => Preložiť vybraný text a zobraziť ho vo vyskakovacom okne
+Ctrl+Shift+Q => Zobraziť vybraný text v slovníku
+Ctrl+E => Vypočuť si vybraný text
+
+Klávesové skratky:
+Ctrl+Enter => Preložiť text v hlavnom okne
+Ctrl+N => Vymazať jestvujúci preklad
+Ctrl+H => Zobraziť okno s históriou prekladov
+Ctrl+K => Zobraziť virtuálnu klávesnicu
+Ctrl+Tab/Ctrl+Shift+Tab/Ctrl+1..9 => Prepnúť sa na ďalší/predchádzajúci/1.-9. prekladačovú službu
+Shift+Esc => Zmeniť jazykový pár na autodetekciu
+Ctrl+I => Otočiť smer prekladu
+Ctrl+Space => Zobraziť rozbaľovaciu ponuku s návrhmi/automatickým dokončením
+F1 => Zobraziť Pomocníka
+
+Existujú dva režimy prekladu pomocou výberu myšou (ako ich zapnúť, viď nižšie):
+  1) Zobraziť ikonu (Vyberte text v niektorom programe a pri kurzore sa objaví ikona. Kliknite na ikonu a objaví sa vyskakovacie okno s prekladom vybraného textu.);
+  2) Zobraziť preklad (Vyberte text v niektorom programe a okamžite sa objaví vyskakovacie okno s prekladom vybraného textu).
+
+Akcie:
+  - Kliknutím ľavým tlačidlom myši na ikonu programu v oznamovacej oblasti prepnete režim výberu pomocou myši (viď vyššie);
+  - Kliknutím 2x ľavým tlačidlom myši na ikonu programu v oznamovacej oblasti zobrazíte hlavné okno;
+  - Kliknutím 2x ľavým tlačidlom myši na hlavičku vyskakovacieho okna otvoríte hlavné okno so súčasným prekladom;
+  - Kliknutím ľavým tlačidlom myši na názov služby vo vyskakovacom okne zmeníte aktuálnu službu a preložíte v nej text.
